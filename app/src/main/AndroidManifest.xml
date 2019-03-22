@@ -26,6 +26,9 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_paths"></meta-data>
         </provider>
+        <meta-data
+            android:name="CLOUDINARY_URL"
+            android:value="cloudinary://492451152551852:U68CAqbUP7RdHXaUsSJZmxvxCG4@hsqm6l1nu"/>
     </application>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-feature android:name="android.hardware.camera"

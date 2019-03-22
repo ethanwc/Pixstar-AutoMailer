@@ -2,7 +2,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
 <item
-    android:id="@+id/action_favorite"
+    android:id="@+id/action_editemail"
     android:title="Edit E-Mail"
     app:showAsAction="ifRoom"/>
 

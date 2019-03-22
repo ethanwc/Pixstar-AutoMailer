@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AutoPixstar</string>
+    <string name="keys_shared_prefs">email123abc</string>
+    <string name="email">Email</string>
 </resources>
